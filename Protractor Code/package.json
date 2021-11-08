@@ -10,7 +10,6 @@
     "webdriver-update": "./node_modules/.bin/webdriver-manager update",
     "cucumbertest": "protractor JSfiles/cucumberconfig.js"
   },
-
   "author": "Vukadin",
   "license": "ISC",
   "dependencies": {
